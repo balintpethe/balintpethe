@@ -37,7 +37,7 @@
 ---
 
 ### 📊 Statisztikák
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=balintpethe&show_icons=true&theme=radical" alt="GitHub Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balintpethe&layout=compact&theme=radical" height="165" /> </p>
+<p align="center"> <img src="https://github-readme-stats-blond-eight-35.vercel.app/api?username=balintpethe&show_icons=true&theme=radical" alt="GitHub Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balintpethe&layout=compact&theme=radical" height="165" /> </p>
 
 ---
 
