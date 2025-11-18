@@ -44,9 +44,9 @@
 ### 🎯 Aktuális projektek
 
 🔥 TrustPhone.hu
- – Apple és Android készülékek nagyker webáruháza
+ – Apple és Android készülékek kisker webáruháza
 
-🧩 PhoneList.hu – árfigyelő és feed integrációs rendszer
+🧩 PhoneList.hu – nagyker és feed rendszer
 
 🧠 Budget Tracker SaaS – modern pénzügyi tervező alkalmazás
 
